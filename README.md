@@ -21,9 +21,9 @@ The data used for this analysis comes from "Northwind.sql" database, a sample da
   ## Data Cleaning/Preparation
 
   in the initial data preperation phase,we performed the following tasks:
-  1. Data loading and inspection.
-  2. Handling missing values.
-  3. Data cleaning and formating.
+  - Data loading and inspection.
+  - Handling missing values.
+  - Data cleaning and formating.
 
 
 ## Data Analysis 
