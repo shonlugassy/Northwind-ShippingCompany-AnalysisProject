@@ -27,7 +27,7 @@ The data used for this analysis comes from "Northwind.sql" database, a sample da
 
 
 ## Data Analysis 
-1. Set up the Northwind database (provide instructions or link to resources).
+- Excel - Data Cleaning [click here to Excel file](https://github.com/shonlugassy/Northwind-ShippingCompany-AnalysisProject/blob/main/Northwind%20Project%20Github/Northwind_TBLS_Analysis.xlsx)
 
 
 ## Results
