@@ -38,5 +38,3 @@ Key findings from the analysis include:
 - Seasonal trends in sales.
 - Top-performing products and categories.
 - Customer purchasing behavior insights.
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
