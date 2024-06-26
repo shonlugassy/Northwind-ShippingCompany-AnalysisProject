@@ -4,7 +4,7 @@
 This project aims to perform a comprehensive analysis of the E-Commerce sales data from the Northwind company. The analysis includes examining sales trends, customer insights, and product performance using SQL.
 
 ## Data Source
-The data used for this analysis comes from "Northwind.sql" database, a sample database created by Microsoft.
+The data used for this analysis comes from "Northwind.sql" database[The Database](https://github.com/shonlugassy/Northwind-ShippingCompany-AnalysisProject/blob/main/Northwind%20Project%20Github/northwind.sql), a sample database created by Microsoft.
 
 ## Analysis Details
 - **Sales Trends:** Analyze sales over time to identify peak periods and trends.
@@ -14,7 +14,7 @@ The data used for this analysis comes from "Northwind.sql" database, a sample da
 ## Tools
 - Excel - Data Dleaning
 - SQL Server - Data Analysis
-- Jupyter Notebook - Data Analysis
+- Jupyter Notebook (Python) - Data Analysis
 - Power BI  - Creating Report
   
 
@@ -28,6 +28,9 @@ The data used for this analysis comes from "Northwind.sql" database, a sample da
 
 ## Data Analysis 
 - Excel - Data Cleaning [click here to Excel file](https://github.com/shonlugassy/Northwind-ShippingCompany-AnalysisProject/blob/main/Northwind%20Project%20Github/Northwind_TBLS_Analysis.xlsx)
+- SQL - Data Analysis Queries [click here to SQL file](https://github.com/shonlugassy/Northwind-ShippingCompany-AnalysisProject/blob/main/Northwind%20Project%20Github/SQLQueryGitHub.sql)
+- Jupyter Notebook (Python) -  Data Analysis [click here to the Jupyter Notebook file](https://github.com/shonlugassy/Northwind-ShippingCompany-AnalysisProject/blob/main/Northwind%20Project%20Github/Jupyter%20Notebook%20Northwind%20connection%20and%20analysis%20.ipynb)
+- Power BI - Visualize Dashboard - [click here to see the Dashboard file](https://github.com/shonlugassy/Northwind-ShippingCompany-AnalysisProject/blob/main/Northwind%20Project%20Github/KPI%20Business%20Dashboard%20Northwind.pbix)
 
 
 ## Results
