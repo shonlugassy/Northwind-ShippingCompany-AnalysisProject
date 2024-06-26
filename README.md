@@ -4,7 +4,7 @@
 This project aims to perform a comprehensive analysis of the E-Commerce sales data from the Northwind company. The analysis includes examining sales trends, customer insights, and product performance using SQL.
 
 ## Data Source
-The data used for this analysis comes from "Northwind.sql" database [The Database](https://github.com/shonlugassy/Northwind-ShippingCompany-AnalysisProject/blob/main/Northwind%20Project%20Github/northwind.sql), a sample database created by Microsoft.
+The data used for this analysis comes from  ["Northwind.sql"](https://github.com/shonlugassy/Northwind-ShippingCompany-AnalysisProject/blob/main/Northwind%20Project%20Github/northwind.sql) database, a sample database created by Microsoft.
 
 ## Analysis Details
 - **Sales Trends:** Analyze sales over time to identify peak periods and trends.
