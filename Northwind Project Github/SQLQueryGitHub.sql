@@ -185,6 +185,14 @@ from Customers c inner join orders o
 on c.CustomerID = o.CustomerID
 where Fax is null and year(OrderDate) = (select  MAX(year(OrderDate)) from Orders)
 
+----24. Report that displays the total average, average of UnitPrice rounded to the next and previous whole numbers, total price of UnitsInStock 
+--and maximum number of orders from the products table. All saved as AveragePrice, TotalPriceOnStock and MaxOrder respectively.
+with [AveragePrice, TotalStock and MaxOrder respectively] as(
+select AVG(unitprice)as [avg],ceiling(AVG(unitprice)) as[round to up number],FLOOR(AVG(UnitPrice))as[round to down number],SUM(UnitPrice * UnitsInStock) as [total],MAX(UnitsOnOrder) as [max]
+from Products
+)
+select * from [AveragePrice, TotalStock and MaxOrder respectively]
+
 
 --DDL Operations and String Manipulations:
 --Create test table
