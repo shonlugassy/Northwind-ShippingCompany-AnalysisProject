@@ -2,10 +2,10 @@
 select ShipCity,COUNT(*) as[c] from Orders group by ShipCity having COUNT(*) > 1 
 
 --2. delete duplicates
-with d as (
-select ShipCity,row_number() over( partition by ShipCity order by (select NULL)) as [row number] from Orders
+with s as(
+select CustomerID,ROW_NUMBER() over (partition by CustomerID order by (select null)) as[r] from Orders
 )
-delete shipcity from d where [c] >1 
+delete from Orders where CustomerID in (SELECT CustomerID FROM s WHERE r > 1)
 
 --3. This query Display the employee who placed the highest number of orders in February and March, along with the count of their orders:
 select top 1 e.EmployeeID,COUNT(orderid) as[c]
