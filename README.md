@@ -16,6 +16,7 @@ The data used for this analysis comes from  ["Northwind.sql"](https://github.com
 - SQL Server - Data Analysis
 - Jupyter Notebook (Python) - Data Analysis
 - Power BI  - Creating Report
+- PowerPoint - Trends & Insights Presentation
   
 
   ## Data Cleaning/Preparation
@@ -31,6 +32,7 @@ The data used for this analysis comes from  ["Northwind.sql"](https://github.com
 - SQL - Data Analysis Queries [click here to SQL file](https://github.com/shonlugassy/Northwind-ShippingCompany-AnalysisProject/blob/main/Northwind%20Project%20Github/SQLQueryGitHub.sql)
 - Jupyter Notebook (Python) -  Data Analysis [click here to the Jupyter Notebook file](https://github.com/shonlugassy/Northwind-ShippingCompany-AnalysisProject/blob/main/Northwind%20Project%20Github/Jupyter%20Notebook%20Northwind%20connection%20and%20analysis%20.ipynb)
 - Power BI - Visualize Dashboard - [click here to see the Dashboard](https://github.com/shonlugassy/Northwind-ShippingCompany-AnalysisProject/blob/main/Northwind%20Project%20Github/KPI%20Business%20Dashboard%20Northwind.pbix)
+- PowerPoint - Trends & Insights Presentation - [click here to see the Presentation](https://github.com/shonlugassy/Northwind-ShippingCompany-AnalysisProject/blob/main/Northwind%20Project%20Github/Northwind%20Trends%20Presentation.pptx)
 
 
 ## Results
