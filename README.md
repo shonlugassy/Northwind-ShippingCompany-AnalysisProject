@@ -21,7 +21,7 @@ The data used for this analysis comes from  ["Northwind.sql"](https://github.com
 
   ## Data Cleaning/Preparation
 
-  in the initial data preperation phase,we performed the following tasks:
+  in the initial data preperation phase,i performed the following tasks:
   - Data loading and inspection.
   - Handling missing values.
   - Data cleaning and formating.
